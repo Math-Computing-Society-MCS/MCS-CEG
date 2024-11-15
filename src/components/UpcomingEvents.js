@@ -10,7 +10,7 @@ const UpcomingEvents = () => {
       title: "Alumni Meet",
       description:
         "The Math Computing Society (MCS), Department of Mathematics, College of Engineering Guindy, is thrilled to host an Alumni Meet. This event reconnects alumni, celebrates their achievements, and fosters valuable interactions with current students. It serves as a platform for networking, knowledge exchange, and inspiring the next generation of mathematicians and innovators. Join us to strengthen bonds and share experiences that shape the future of our community.",
-      formLink: "fefe",
+      formLink: "https://forms.gle/WQcCB8FFZRnH6NQ29",
     },
 
     // second

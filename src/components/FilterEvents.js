@@ -81,10 +81,10 @@ const FilterEvents = () => {
     {
       _id: 8,
       image: github,
-      title: "UI/UX Session",
+      title: "UI/UX",
       description:
         "The UI/UX Workshop, held on April 3, 2024, at the department lab, provided an immersive learning experience on the principles of user interface and user experience design. The session focused on Figma, a powerful and collaborative design tool widely used in the industry for creating wireframes, prototypes, and high-fidelity user interfaces. The workshop aimed to equip attendees with essential skills to enhance their design proficiency and build user-centered digital products.",
-      category: "workshops",
+      category: "sessions",
       formLink: "fefe",
     },
     {

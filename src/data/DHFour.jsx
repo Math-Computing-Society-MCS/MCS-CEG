@@ -35,7 +35,7 @@ export const DHFour = [
 
   {
     id: 3,
-    name: "Monika Shree K",
+    name: "Monikashri K",
     aboutMe: "Human resource",
     profileImage: monikashree,
     linkedIn:
@@ -88,7 +88,7 @@ export const DHFour = [
   },
   {
     id: 8,
-    name: "Harshitha V",
+    name: "Harshidha V",
     aboutMe: "Multimedia",
     profileImage: harshitha,
     linkedIn: "https://www.linkedin.com/in/harshidha-v/",
@@ -107,7 +107,7 @@ export const DHFour = [
   },
   {
     id: 10,
-    name: "Aravind Kumar M",
+    name: "AravindKumar M",
     aboutMe: "Techops",
     profileImage: aravindkumar,
     linkedIn: "https://www.linkedin.com/in/aravindkumar-m-206702263/",
@@ -127,7 +127,7 @@ export const DHFour = [
   {
     id: 12,
     name: "Metta Surendhar",
-    aboutMe: "Quality Assurance Cell",
+    aboutMe: "QAC",
     profileImage: metta,
     linkedIn: "",
     instagram: "",
